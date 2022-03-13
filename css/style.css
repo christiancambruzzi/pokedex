@@ -1,0 +1,7 @@
+@import './reset.css';
+@import './global.css';
+
+@import './cartao.css';
+@import './listagem.css';
+
+@import './responsivo.css';
